@@ -17,13 +17,15 @@
     "Internet measurement",
     "reproducibility"
   ],
-  "version": "1.0.0",
+  "version": "1.0.2",
   "related_identifiers": [
     {
-      "scheme": "doi",
-      "identifier": "10.5281/zenodo.23751733",
-      "relation": "isRelatedTo",
+      "identifier": "https://doi.org/10.5281/zenodo.23751733",
+      "relation": "references",
       "resource_type": "software"
     }
-  ]
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "notes": "CC BY 4.0 applies only to the author-prepared aggregate tables and original textual documentation in this release. It does not purport to license external RIPE RIS or IODA source data, which are not redistributed. Related author-owned software is separately licensed under MIT."
 }
