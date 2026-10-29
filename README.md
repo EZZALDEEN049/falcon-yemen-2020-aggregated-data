@@ -11,7 +11,7 @@ This repository contains a curated **aggregate-data archive** for the study *Net
 - Extraction: `tar -xJf FALCON_Yemen_2020_Aggregated_BGP_Dataset_v1.0.0.tar.xz`.
 - Verification after extraction: `python verify_aggregate_tables.py` (Python 3.10+); `FILES_SHA256.json` lists hashes of included files.
 
-The original ZIP package, with the same data and refreshed publication notes, is also available as a [downloadable file in the companion conversation](https://github.com/EZZALDEEN049/falcon-yemen-2020-aggregated-data) if provided separately. This repository's .tar.xz archive is the source of record for the GitHub release.
+The .tar.xz archive above is the dataset source of record for the GitHub release.
 
 ## Contents and research limits
 
