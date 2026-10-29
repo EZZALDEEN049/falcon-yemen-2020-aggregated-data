@@ -19,7 +19,7 @@ This package includes high-level collector×ASN×window BGP tables, six event/re
 
 It **does not** include original RIPE RIS MRT files, individual peer-prefix BGP observations, IODA originals/pixel traces/2023 JSON, internal reviews or unpublished manuscript files. Verification tests the reported summary arithmetic; it is **not** independent reprocessing of original RIPE MRT files and does not establish physical submarine-cable causality or end-user outage.
 
-The repository owner expressly authorized public distribution of these author-prepared aggregates on 29 October 2026, as distinct from rights to redistribute excluded provider-origin materials. **No public reuse license for these aggregate data has yet been selected in the source package.** Public GitHub visibility is not itself a license. Zenodo's license selection must be reviewed before publication.
+The repository owner expressly authorized public distribution of these author-prepared aggregates on 29 October 2026, as distinct from rights to redistribute excluded provider-origin materials. **The public Zenodo release metadata specifies CC BY 4.0 for the author-prepared aggregate tables and original documentation**, not for excluded third-party source data or images. The source archive may retain earlier candidate-stage notices; this root README and the current `.zenodo.json` document the release metadata.
 
 ## Related research software
 
