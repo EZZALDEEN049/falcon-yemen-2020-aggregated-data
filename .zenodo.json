@@ -1,0 +1,29 @@
+{
+  "title": "FALCON Yemen 2020: Aggregated BGP Measurements and Source Provenance",
+  "upload_type": "dataset",
+  "creators": [
+    {
+      "name": "Al-Tayar, Ezzaldeen",
+      "affiliation": "Faculty of Engineering and Information Technology, Taiz University, Taiz, Yemen"
+    }
+  ],
+  "description": "<p>Author-prepared aggregate BGP event/reference measurements, arithmetic validation, source provenance URLs and checksums for Yemen's January 2020 FALCON disruption study. Includes AS30873 and AS12486 summaries from RIPE RIS RRC00, RRC01, and RRC10. Original provider data and peer/prefix-level extracted observations are excluded. Arithmetic reproducibility only; no source-native reprocessing or causal claim.</p><p>Related author-owned research software: https://doi.org/10.5281/zenodo.23751733</p>",
+  "keywords": [
+    "BGP",
+    "RIPE RIS",
+    "Yemen",
+    "FALCON",
+    "aggregated data",
+    "Internet measurement",
+    "reproducibility"
+  ],
+  "version": "1.0.0",
+  "related_identifiers": [
+    {
+      "scheme": "doi",
+      "identifier": "10.5281/zenodo.23751733",
+      "relation": "isRelatedTo",
+      "resource_type": "software"
+    }
+  ]
+}
