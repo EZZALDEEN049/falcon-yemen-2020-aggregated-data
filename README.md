@@ -26,3 +26,10 @@ The repository owner expressly authorized public distribution of these author-pr
 [Curated FALCON research software v1.0.1](https://doi.org/10.5281/zenodo.23751733) (MIT-licensed author-owned source code only). This dataset is a separate deposit and should receive its own DOI after Zenodo archives a release from this repository.
 
 See also [RELEASE_GUIDANCE.md](RELEASE_GUIDANCE.md).
+
+## Additional supplementary data added after the v1.0.2 archive
+
+- [IODA 2020 AS30873 deterministic sensitivity settings (20,250 configurations)](Supplementary_Data/Table_S6_IODA_2020_20250_Deterministic_Settings.csv)
+- [Supplementary data methods and rights note](Supplementary_Data/README.md)
+
+**Reproducibility note:** The 20,250 configurations are analyst-selected calibration/window/statistic combinations applied to an already published image, **not** independent IODA measurement samples and **not** a confidence interval. The CSV was added to the GitHub repository after the Zenodo dataset **v1.0.2** snapshot; **the existing DOI 10.5281/zenodo.23752785 does not automatically contain this newly added CSV**. A separate later release must be archived if the author wishes to cite a DOI for the expanded dataset.
